@@ -7,7 +7,7 @@ class User:
         self.second_name = None
 
     def create(self):
-        self.name = "Maksim"
+        self.name = "Maksym"
         self.second_name = "Lelo"
 
     def remove(self):
